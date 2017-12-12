@@ -4,6 +4,8 @@ For details and build instructions refer to the projects in the ESP8266-HomeKit-
 
 # Copyright obligations
 
+The following is to comply with the original license.
+
 ## License
 
 Copyright 2016 HomeACcessoryKid - HacK - homeaccessorykid@gmail.com
